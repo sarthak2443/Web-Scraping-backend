@@ -1,0 +1,21 @@
+# Core Web Scraping
+playwright>=1.30.0
+
+# Data Processing and Analysis
+pandas>=2.0.0
+pyarrow>=12.0.0
+scikit-learn>=1.2.0
+
+# Utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.0
+regex>=2023.0.0
+
+# Optional: Advanced NLP (requires Visual C++ Build Tools on Windows)
+# fasttext>=0.9.3
+
+# Development Dependencies (uncomment for development)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
